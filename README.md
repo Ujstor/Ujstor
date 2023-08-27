@@ -34,3 +34,20 @@
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ujstor&theme=transparent&langs_count=8&layout=compact&hide_border=true" align="center" />
   <img src="https://streak-stats.demolab.com/?user=Ujstor&theme=transparent&hide_border=true&stroke=transparent" align="center" />
 </p>
+
+## <picture> <img src = "https://github.com/Ujstor/Ujstor/blob/master/Images/handshake.gif?raw=true" width = 80px>  </picture>  Connect with me
+
+<p align="center">
+  <a href="https://twitter.com/PZovac">
+    <img src="https://github.com/Ujstor/Ujstor/blob/master/Images/twitter.png" width="32px" alt="Twitter" />
+  </a>&nbsp;&nbsp;
+  <a href="https://discord.gg/yaCgz5MWvP">
+    <img src="https://github.com/Ujstor/Ujstor/blob/master/Images/discord.png" width="32px" alt="Discord" />
+  </a>&nbsp;&nbsp;
+  <a href="https://www.twitch.tv/ujstor">
+    <img src="https://github.com/Ujstor/Ujstor/blob/master/Images/twitch.png" width="32px" alt="Twitch" />
+  </a>&nbsp;&nbsp;
+  <a href="mailto:astipan@gmail.com">
+    <img src="https://github.com/Ujstor/Ujstor/blob/master/Images/gmail.png" width="32px" alt="Gmail" />
+  </a>
+</p>
