@@ -1,10 +1,10 @@
-## <picture><img src = "https://github.com/Ujstor/Ujstor/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
+## <picture><img src = "https://github.com/Ujstor/Ujstor/blob/master/Images/about_me.gif?raw=true" width = 60px></picture> About me
 
-<picture> <img align="right" src="https://github.com/Ujstor/Ujstor/blob/main/Images/Right_Side.gif?raw=true" width = 200px></picture>
+<picture> <img align="right" src="https://github.com/Ujstor/Ujstor/blob/master/Images/Right_Side.gif?raw=true" width = 200px></picture>
 
 <br>
 
-- :man_student: Greetings! I'm relatively `new` to the world of programming, eager to soak up knowledge.
+- :man_student: Hi there! I'm relatively `new` to the world of programming, eager to soak up knowledge.
 - :computer: I have a deep passion for `utilizing software` to elegantly solve a multitude of challenges.
 - :books: My current focus is on mastering `Data Scienc`e and `Software Engineering` disciplines.
 - :brain: I thrive on the excitement of continuous `learning,` constantly embracing new concepts.
@@ -12,7 +12,7 @@
 <br> <br>
 
 
-## <picture> <img src = "https://github.com/Ujstor/Ujstor/blob/main/Images/Software_Tools.gif?raw=true" width = 50px>  </picture>  Languages and Tools
+## <picture> <img src = "https://github.com/Ujstor/Ujstor/blob/master/Images/Software_Tools.gif?raw=true" width = 60px>  </picture>  Languages and Tools
 <br> <br>
 
 <p align="center">
@@ -21,7 +21,7 @@
   </a>
 </p>
 
-## <picture> <img src = "https://github.com/Ujstor/Ujstor/blob/main/Images/Statistics.gif?raw=true" width = 50px>  </picture> Github Stats
+## <picture> <img src = "https://github.com/Ujstor/Ujstor/blob/master/Images/Statistics.gif?raw=true" width = 60px>  </picture> Github Stats
 <br>
 
 <p align="center">
