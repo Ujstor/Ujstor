@@ -6,18 +6,18 @@
 
 - :man_student: Hi there! I'm relatively `new` to the world of programming, eager to soak up knowledge.
 - :computer: I have a deep passion for `utilizing software` to elegantly solve a multitude of challenges.
-- :books: My current focus is on mastering `Data Scienc`e and `Software Engineering` disciplines.
+- :books: My current focus is on mastering `Data Science` and `Software Engineering` disciplines.
 - :brain: I thrive on the excitement of continuous `learning,` constantly embracing new concepts.
 - :briefcase: Currently seeking new and exciting `job opportunities` to apply and expand my skills!
 <br> <br>
 
 
 ## <picture> <img src = "https://github.com/Ujstor/Ujstor/blob/master/Images/Software_Tools.gif?raw=true" width = 60px>  </picture>  Languages and Tools
-<br> <br>
+<br>
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=go,py,docker,postgres,postman,vscode,git,github,html,bootstrap,django,flask," />
+    <img src="https://skillicons.dev/icons?i=go,py,django,flask,fastapi,postman,docker,postgres,html,bootstrap,git,github,vscode" />
   </a>
 </p>
 
