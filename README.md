@@ -31,7 +31,7 @@
 
 
 <p align="center">
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ujstor&theme=transparent&langs_count=8&layout=compact&hide_border=true" align="center" />
+ <img src="https://github-readme-stats-h07is65k8-ujstor.vercel.app/api/top-langs/?username=Ujstor&theme=transparent&langs_count=8&layout=compact&hide_border=true" align="center" />
   <img src="https://streak-stats.demolab.com/?user=Ujstor&theme=transparent&hide_border=true&stroke=transparent" align="center" />
 </p>
 
