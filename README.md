@@ -12,7 +12,7 @@
 <br> <br>
 
 
-## <picture> <img src = "https://github.com/Ujstor/Ujstor/blob/master/Images/Software_Tools.gif?raw=true" width = 60px>  </picture>  Languages and Tools
+## <picture> <img src = "https://github.com/Ujstor/Ujstor/blob/master/Images/code.gif?raw=true" width = 60px>  </picture>  Languages and Tools
 <br>
 
 <p align="center">
@@ -31,9 +31,43 @@
 
 
 <p align="center">
- <img src="https://github-readme-stats-h07is65k8-ujstor.vercel.app/api/top-langs/?username=Ujstor&theme=transparent&langs_count=8&layout=compact&hide_border=true" align="center" />
+ <img src="https://github-readme-stats-h07is65k8-ujstor.vercel.app/api/top-langs/?username=Ujstor&theme=transparent&langs_count=8&layout=compact&hide_border=true&hide=jupyter%20notebook" align="center" />
   <img src="https://streak-stats.demolab.com/?user=Ujstor&theme=transparent&hide_border=true&stroke=transparent" align="center" />
 </p>
+
+## <picture> <img src = "https://github.com/Ujstor/Ujstor/blob/master/Images/Software_Tools.gif?raw=true" width = 60px>  </picture> My Projects
+<br>
+
+<p align="center">
+  <a href="https://github.com/Ujstor/Data-Science-Introduction">
+    <img align="center" src="https://github-readme-stats-h07is65k8-ujstor.vercel.app/api/pin/?username=ujstor&repo=Data-Science-Introduction&theme=transparent&hide_border=true" />
+  </a>
+  <a href="https://github.com/Ujstor/streamlit-working-hours">
+    <img align="center" src="https://github-readme-stats-h07is65k8-ujstor.vercel.app/api/pin/?username=ujstor&repo=streamlit-working-hours&theme=transparent&hide_border=true" />
+  </a>
+  <a href="https://github.com/Ujstor/python-intermediate">
+    <img align="center" src="https://github-readme-stats-h07is65k8-ujstor.vercel.app/api/pin/?username=ujstor&repo=python-intermediate&theme=transparent&hide_border=true" />
+  </a>
+  <a href="https://github.com/Ujstor/Basic-interpreter-in-Python">
+    <img align="center" src="https://github-readme-stats-h07is65k8-ujstor.vercel.app/api/pin/?username=ujstor&repo=Basic-interpreter-in-Python&theme=transparent&hide_border=true" />
+  </a>
+  <a href="https://github.com/Ujstor/probit-exchange-api">
+    <img align="center" src="https://github-readme-stats-h07is65k8-ujstor.vercel.app/api/pin/?username=ujstor&repo=probit-exchange-api&theme=transparent&hide_border=true" />
+  </a>
+  <a href="https://github.com/Ujstor/social-media-fastapi">
+    <img align="center" src="https://github-readme-stats-h07is65k8-ujstor.vercel.app/api/pin/?username=ujstor&repo=social-media-fastapi&theme=transparent&hide_border=true" />
+  </a>
+  <a href="https://github.com/Ujstor/web-flask-authen-database">
+    <img align="center" src="https://github-readme-stats-h07is65k8-ujstor.vercel.app/api/pin/?username=ujstor&repo=web-flask-authen-database&theme=transparent&hide_border=true" />
+  </a>
+  <a href="https://github.com/Ujstor/todo-list-app-dajango">
+    <img align="center" src="https://github-readme-stats-h07is65k8-ujstor.vercel.app/api/pin/?username=ujstor&repo=todo-list-app-dajango&theme=transparent&hide_border=true" />
+  </a>
+  <a href="https://github.com/Ujstor/learning-go">
+    <img align="center" src="https://github-readme-stats-h07is65k8-ujstor.vercel.app/api/pin/?username=ujstor&repo=learning-go&theme=transparent&hide_border=true" />
+  </a>
+</p>  
+
 
 ## <picture> <img src = "https://github.com/Ujstor/Ujstor/blob/master/Images/handshake.gif?raw=true" width = 80px>  </picture>  Connect with me
 
