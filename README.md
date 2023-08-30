@@ -63,6 +63,9 @@
   <a href="https://github.com/Ujstor/todo-list-app-dajango">
     <img align="center" src="https://github-readme-stats-h07is65k8-ujstor.vercel.app/api/pin/?username=ujstor&repo=todo-list-app-dajango&theme=transparent&hide_border=true" />
   </a>
+  <a href="https://github.com/Ujstor/django-online-marketplace">
+    <img align="center" src="https://github-readme-stats-h07is65k8-ujstor.vercel.app/api/pin/?username=ujstor&repo=django-online-marketplace&theme=transparent&hide_border=true" />
+  </a>
   <a href="https://github.com/Ujstor/learning-go">
     <img align="center" src="https://github-readme-stats-h07is65k8-ujstor.vercel.app/api/pin/?username=ujstor&repo=learning-go&theme=transparent&hide_border=true" />
   </a>
