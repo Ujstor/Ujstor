@@ -12,7 +12,7 @@
 <br> <br>
 
 
-## <picture> <img src = "https://github.com/Ujstor/Ujstor/blob/master/Images/code.gif?raw=true" width = 60px>  </picture>  Languages and Tools
+## <picture> <img src = "https://github.com/Ujstor/Ujstor/blob/master/Images/code.gif?raw=true" width = 40px>  </picture>  Languages and Tools
 <br>
 
 <p align="center">
@@ -32,7 +32,7 @@
 
 <p align="center">
  <img src="https://github-readme-stats-h07is65k8-ujstor.vercel.app/api/top-langs/?username=Ujstor&theme=transparent&langs_count=8&layout=compact&hide_border=true&hide=jupyter%20notebook" align="center" />
-  <img src="https://streak-stats.demolab.com/?user=Ujstor&theme=transparent&hide_border=true&stroke=transparent" align="center" />
+  <img src="https://streak-stats-92f42ajco-ujstor.vercel.app/?user=Ujstor&theme=transparent&hide_border=true&stroke=transparent" align="center" />
 </p>
 
 ## <picture> <img src = "https://github.com/Ujstor/Ujstor/blob/master/Images/Software_Tools.gif?raw=true" width = 60px>  </picture> My Projects
