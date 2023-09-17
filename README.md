@@ -17,7 +17,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=go,py,django,flask,fastapi,postman,docker,postgres,html,bootstrap,git,github,vscode" />
+    <img src="https://skillicons.dev/icons?i=go,py,django,flask,fastapi,postman,docker,linux,nginx,postgres,html,bootstrap,git,github,vscode" />
   </a>
 </p>
 
@@ -31,7 +31,7 @@
 
 
 <p align="center">
- <img src="https://github-readme-stats-h07is65k8-ujstor.vercel.app/api/top-langs/?username=Ujstor&theme=transparent&langs_count=8&layout=compact&hide_border=true&hide=jupyter%20notebook" align="center" />
+ <img src="https://github-readme-stats-h07is65k8-ujstor.vercel.app/api/top-langs/?username=Ujstor&theme=transparent&langs_count=8&layout=compact&hide_border=true&hide=jupyter%20notebook,php" align="center" />
   <img src="https://streak-stats-92f42ajco-ujstor.vercel.app/?user=Ujstor&theme=transparent&hide_border=true&stroke=transparent" align="center" />
 </p>
 
