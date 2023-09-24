@@ -11,7 +11,7 @@
 <br> <br>
 
 
-## <picture> <img src = "https://github.com/Ujstor/Ujstor/blob/master/Images/code.gif?raw=true" width = 40px>  </picture>  Languages and Tools
+## <picture> <img src = "https://github.com/Ujstor/Ujstor/blob/master/Images/tools.gif?raw=true" width = 60px>  </picture>  Languages and Tools
 <br>
 
 <p align="center">
@@ -20,7 +20,7 @@
   </a>
 </p>
 
-## <picture> <img src = "https://github.com/Ujstor/Ujstor/blob/master/Images/Statistics.gif?raw=true" width = 60px>  </picture> Github Stats
+## <picture> <img src = "https://github.com/Ujstor/Ujstor/blob/master/Images/stats.gif?raw=true" width = 60px>  </picture> Github Stats
 <br>
 
 <p align="center">
@@ -34,7 +34,7 @@
   <img src="https://streak-stats-92f42ajco-ujstor.vercel.app/?user=Ujstor&theme=transparent&hide_border=true&stroke=transparent" align="center" />
 </p>
 
-## <picture> <img src = "https://github.com/Ujstor/Ujstor/blob/master/Images/Software_Tools.gif?raw=true" width = 60px>  </picture> My Projects
+## <picture> <img src = "https://github.com/Ujstor/Ujstor/blob/master/Images/projects.gif?raw=true" width = 60px>  </picture> My Projects
 <br>
 
 <p align="center">
@@ -71,7 +71,7 @@
 </p>  
 
 
-## <picture> <img src = "https://github.com/Ujstor/Ujstor/blob/master/Images/handshake.gif?raw=true" width = 80px>  </picture>  Connect with me
+## <picture> <img src = "https://github.com/Ujstor/Ujstor/blob/master/Images/connect.gif?raw=true" width = 60px>  </picture>  Connect with me
 
 <p align="center">
   <a href="https://twitter.com/PZovac">
