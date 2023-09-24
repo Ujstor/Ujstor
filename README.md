@@ -4,11 +4,10 @@
 
 <br>
 
-- :man_student: Hi there! I'm relatively `new` to the world of programming, eager to soak up knowledge.
-- :computer: I have a deep passion for `utilizing software` to elegantly solve a multitude of challenges.
-- :books: My current focus is on mastering `Data Science` and `Software Engineering` disciplines.
-- :brain: I thrive on the excitement of continuous `learning,` constantly embracing new concepts.
-- :briefcase: Currently seeking new and exciting `job opportunities` to apply and expand my skills!
+- :man_student: Hello! I'm relatively new to the programming world, driven by a hunger for knowledge.
+- :books: Currently, my main areas of focus are mastering data analysis, backend development and integrating efficient automations through CI/CD pipelines.
+- :brain: I thrive on the excitement of ongoing learning, always ready to embrace new concepts.
+- :briefcase: I'm actively exploring fresh and exciting job opportunities to apply and further develop my skills in automations and CI/CD!
 <br> <br>
 
 
@@ -17,7 +16,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=go,py,django,flask,fastapi,postman,docker,linux,nginx,postgres,html,bootstrap,git,github,vscode" />
+    <img src="https://skillicons.dev/icons?i=go,py,django,flask,fastapi,postman,docker,postgres,linux,bash,nginx,git,github,githubactions,jenkins,vscode&perline=8" />
   </a>
 </p>
 
@@ -63,8 +62,8 @@
   <a href="https://github.com/Ujstor/todo-list-app-dajango">
     <img align="center" src="https://github-readme-stats-h07is65k8-ujstor.vercel.app/api/pin/?username=ujstor&repo=todo-list-app-dajango&theme=transparent&hide_border=true" />
   </a>
-  <a href="https://github.com/Ujstor/django-online-marketplace">
-    <img align="center" src="https://github-readme-stats-h07is65k8-ujstor.vercel.app/api/pin/?username=ujstor&repo=django-online-marketplace&theme=transparent&hide_border=true" />
+  <a href="https://github.com/Ujstor/portfolio_web/tree/flask_server">
+    <img align="center" src="https://github-readme-stats-h07is65k8-ujstor.vercel.app/api/pin/?username=ujstor&repo=portfolio_web&theme=transparent&hide_border=true" />
   </a>
   <a href="https://github.com/Ujstor/learning-go">
     <img align="center" src="https://github-readme-stats-h07is65k8-ujstor.vercel.app/api/pin/?username=ujstor&repo=learning-go&theme=transparent&hide_border=true" />
@@ -77,12 +76,6 @@
 <p align="center">
   <a href="https://twitter.com/PZovac">
     <img src="https://github.com/Ujstor/Ujstor/blob/master/Images/twitter.png" width="32px" alt="Twitter" />
-  </a>&nbsp;&nbsp;
-  <a href="https://discord.gg/yaCgz5MWvP">
-    <img src="https://github.com/Ujstor/Ujstor/blob/master/Images/discord.png" width="32px" alt="Discord" />
-  </a>&nbsp;&nbsp;
-  <a href="https://www.twitch.tv/ujstor">
-    <img src="https://github.com/Ujstor/Ujstor/blob/master/Images/twitch.png" width="32px" alt="Twitch" />
   </a>&nbsp;&nbsp;
   <a href="mailto:astipan@gmail.com">
     <img src="https://github.com/Ujstor/Ujstor/blob/master/Images/gmail.png" width="32px" alt="Gmail" />
