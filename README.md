@@ -1,13 +1,13 @@
 ## <picture><img src = "https://github.com/Ujstor/Ujstor/blob/master/Images/about_me.gif?raw=true" width = 60px></picture> About me
 
-<picture> <img align="right" src="https://github.com/Ujstor/Ujstor/blob/master/Images/Right_Side.gif?raw=true" width = 200px></picture>
+<picture> <img align="right" src="https://github.com/Ujstor/Ujstor/blob/master/Images/Right_Side.gif?raw=true" width = 150px></picture>
 
 <br>
 
-- :man_student: Hello! I'm relatively new to the programming world, driven by a hunger for knowledge.
-- :books: Currently, my main areas of focus are mastering data analysis, backend development and integrating efficient automations through CI/CD pipelines.
-- :brain: I thrive on the excitement of ongoing learning, always ready to embrace new concepts.
-- :briefcase: I'm actively exploring fresh and exciting job opportunities to apply and further develop my skills in automations and CI/CD!
+- :man_student: Hello! I'm relatively new to the programming world, driven by a hunger for `knowledge`.
+- :books: Currently, my main areas of focus are mastering `data analysis`, `backend development` and integrating efficient automations through `CI/CD` pipelines.
+- :brain: I thrive on the excitement of ongoing `learning`, always ready to embrace new concepts.
+- :briefcase: I'm actively exploring fresh and exciting `job opportunities` to apply and further develop my skills in automations and CI/CD!
 <br> <br>
 
 
