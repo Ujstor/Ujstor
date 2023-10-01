@@ -16,7 +16,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=go,py,django,flask,fastapi,postman,docker,postgres,linux,bash,nginx,git,github,githubactions,jenkins,vscode&perline=8" />
+    <img src="https://skillicons.dev/icons?i=go,py,django,flask,fastapi,postman,docker,kubernetes,prometheus,postgres,linux,bash,nginx,git,github,githubactions,jenkins,vscode&perline=9" />
   </a>
 </p>
 
@@ -67,6 +67,9 @@
   </a>
   <a href="https://github.com/Ujstor/learning-go">
     <img align="center" src="https://github-readme-stats-h07is65k8-ujstor.vercel.app/api/pin/?username=ujstor&repo=learning-go&theme=transparent&hide_border=true" />
+  </a>
+    <a href="https://github.com/Ujstor/kubernetes">
+    <img align="center" src="https://github-readme-stats-h07is65k8-ujstor.vercel.app/api/pin/?username=ujstor&repo=kubernetes&theme=transparent&hide_border=true" />
   </a>
 </p>  
 
