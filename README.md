@@ -5,9 +5,9 @@
 <br>
 
 - :man_student: Hello! I'm relatively new to the programming world, driven by a hunger for `knowledge`.
-- :books: Currently, my main areas of focus are mastering `data analysis`, `backend development` and integrating efficient automations through `CI/CD` pipelines.
+- :books: At the moment, my primary interests revolve around excelling in `DevOps tools` and `CI/CD` practices.
 - :brain: I thrive on the excitement of ongoing `learning`, always ready to embrace new concepts.
-- :briefcase: I'm actively exploring fresh and exciting `job opportunities` to apply and further develop my skills in automations and CI/CD!
+- :briefcase: I'm actively seeking exciting job opportunities to apply and further enhance my expertise in `DevOps`!
 <br> <br>
 
 
@@ -70,6 +70,9 @@
   </a>
     <a href="https://github.com/Ujstor/kubernetes">
     <img align="center" src="https://github-readme-stats-h07is65k8-ujstor.vercel.app/api/pin/?username=ujstor&repo=kubernetes&theme=transparent&hide_border=true" />
+  </a>
+  <a href="https://github.com/Ujstor/k8s-infra">
+    <img align="center" src="https://github-readme-stats-h07is65k8-ujstor.vercel.app/api/pin/?username=ujstor&repo=k8s-infra&theme=transparent&hide_border=true" />
   </a>
 </p>  
 
