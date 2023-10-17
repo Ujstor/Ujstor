@@ -65,8 +65,8 @@
   <a href="https://github.com/Ujstor/portfolio_web/tree/flask_server">
     <img align="center" src="https://github-readme-stats-h07is65k8-ujstor.vercel.app/api/pin/?username=ujstor&repo=portfolio_web&theme=transparent&hide_border=true" />
   </a>
-  <a href="https://github.com/Ujstor/learning-go">
-    <img align="center" src="https://github-readme-stats-h07is65k8-ujstor.vercel.app/api/pin/?username=ujstor&repo=learning-go&theme=transparent&hide_border=true" />
+  <a href="https://github.com/Ujstor/jenkins-ssh-agent-python">
+    <img align="center" src="https://github-readme-stats-h07is65k8-ujstor.vercel.app/api/pin/?username=ujstor&repo=jenkins-ssh-agent-python&theme=transparent&hide_border=true" />
   </a>
     <a href="https://github.com/Ujstor/kubernetes">
     <img align="center" src="https://github-readme-stats-h07is65k8-ujstor.vercel.app/api/pin/?username=ujstor&repo=kubernetes&theme=transparent&hide_border=true" />
