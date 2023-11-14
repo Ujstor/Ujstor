@@ -30,7 +30,7 @@
 </p>
 
 <p align="center">
- <img src="https://github-readme-stats-h07is65k8-ujstor.vercel.app/api/top-langs/?username=Ujstor&theme=transparent&langs_count=8&layout=compact&hide_border=true&hide=jupyter%20notebook,php" align="center" />
+ <img src="https://github-readme-stats-h07is65k8-ujstor.vercel.app/api/top-langs/?username=Ujstor&theme=transparent&langs_count=8&layout=compact&hide_border=true&hide=jupyter%20notebook,php,html,css" align="center" />
   <img src="https://streak-stats-92f42ajco-ujstor.vercel.app/?user=Ujstor&theme=transparent&hide_border=true&stroke=transparent" align="center" />
 </p>
 
@@ -45,12 +45,6 @@
   <a href="https://github.com/Ujstor/streamlit-working-hours">
     <img align="center" src="https://github-readme-stats-h07is65k8-ujstor.vercel.app/api/pin/?username=ujstor&repo=streamlit-working-hours&theme=transparent&hide_border=true" />
   </a>
-  <a href="https://github.com/Ujstor/python-intermediate">
-    <img align="center" src="https://github-readme-stats-h07is65k8-ujstor.vercel.app/api/pin/?username=ujstor&repo=python-intermediate&theme=transparent&hide_border=true" />
-  </a>
-  <a href="https://github.com/Ujstor/Basic-interpreter-in-Python">
-    <img align="center" src="https://github-readme-stats-h07is65k8-ujstor.vercel.app/api/pin/?username=ujstor&repo=Basic-interpreter-in-Python&theme=transparent&hide_border=true" />
-  </a>
   <a href="https://github.com/Ujstor/probit-exchange-api">
     <img align="center" src="https://github-readme-stats-h07is65k8-ujstor.vercel.app/api/pin/?username=ujstor&repo=probit-exchange-api&theme=transparent&hide_border=true" />
   </a>
@@ -63,23 +57,23 @@
   <a href="https://github.com/Ujstor/todo-list-app-dajango">
     <img align="center" src="https://github-readme-stats-h07is65k8-ujstor.vercel.app/api/pin/?username=ujstor&repo=todo-list-app-dajango&theme=transparent&hide_border=true" />
   </a>
-  <a href="https://github.com/Ujstor/portfolio_web/tree/flask_server">
-    <img align="center" src="https://github-readme-stats-h07is65k8-ujstor.vercel.app/api/pin/?username=ujstor&repo=portfolio_web&theme=transparent&hide_border=true" />
-  </a>
   <a href="https://github.com/Ujstor/jenkins-ssh-agent-python">
     <img align="center" src="https://github-readme-stats-h07is65k8-ujstor.vercel.app/api/pin/?username=ujstor&repo=jenkins-ssh-agent-python&theme=transparent&hide_border=true" />
   </a>
-  <a href="https://github.com/Ujstor/learnig-go">
-    <img align="center" src="https://github-readme-stats-h07is65k8-ujstor.vercel.app/api/pin/?username=ujstor&repo=learning-go&theme=transparent&hide_border=true" />
-  </a>
-  <a href="https://github.com/Ujstor/go-projects">
-    <img align="center" src="https://github-readme-stats-h07is65k8-ujstor.vercel.app/api/pin/?username=ujstor&repo=go-projects&theme=transparent&hide_border=true" />
-  </a>
+  <a href="https://github.com/Ujstor/jenkins-ssh-agent-go">
+    <img align="center" src="https://github-readme-stats-h07is65k8-ujstor.vercel.app/api/pin/?username=ujstor&repo=jenkins-ssh-agent-go&theme=transparent&hide_border=true" />
   <a href="https://github.com/Ujstor/kubernetes">
     <img align="center" src="https://github-readme-stats-h07is65k8-ujstor.vercel.app/api/pin/?username=ujstor&repo=kubernetes&theme=transparent&hide_border=true" />
   </a>
   <a href="https://github.com/Ujstor/k8s-infra">
     <img align="center" src="https://github-readme-stats-h07is65k8-ujstor.vercel.app/api/pin/?username=ujstor&repo=k8s-infra&theme=transparent&hide_border=true" />
+  </a>
+  </a>
+    <a href="https://github.com/Ujstor/learnig-go">
+    <img align="center" src="https://github-readme-stats-h07is65k8-ujstor.vercel.app/api/pin/?username=ujstor&repo=learning-go&theme=transparent&hide_border=true" />
+  </a>
+  <a href="https://github.com/Ujstor/go-blueprint-CICD">
+    <img align="center" src="https://github-readme-stats-h07is65k8-ujstor.vercel.app/api/pin/?username=ujstor&repo=go-blueprint-CICD&theme=transparent&hide_border=true" />
   </a>
 </p>
 
