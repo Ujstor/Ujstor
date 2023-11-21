@@ -69,12 +69,9 @@
     <img align="center" src="https://github-readme-stats-h07is65k8-ujstor.vercel.app/api/pin/?username=ujstor&repo=k8s-infra&theme=transparent&hide_border=true" />
   </a>
   </a>
-    <a href="https://github.com/Ujstor/learnig-go">
+    <a href="https://github.com/Ujstor/learning-go">
     <img align="center" src="https://github-readme-stats-h07is65k8-ujstor.vercel.app/api/pin/?username=ujstor&repo=learning-go&theme=transparent&hide_border=true" />
-  </a>
-  <a href="https://github.com/Ujstor/go-blueprint-CICD">
-    <img align="center" src="https://github-readme-stats-h07is65k8-ujstor.vercel.app/api/pin/?username=ujstor&repo=go-blueprint-CICD&theme=transparent&hide_border=true" />
-  </a>
+  </a> 
 </p>
 
 ## <picture> <img src = "https://github.com/Ujstor/Ujstor/blob/master/Images/connect.gif?raw=true" width = 70px style="margin-right: 10px;"> </picture> Connect with me
