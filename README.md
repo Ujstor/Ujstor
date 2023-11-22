@@ -57,6 +57,9 @@
   <a href="https://github.com/Ujstor/todo-list-app-dajango">
     <img align="center" src="https://github-readme-stats-h07is65k8-ujstor.vercel.app/api/pin/?username=ujstor&repo=todo-list-app-dajango&theme=transparent&hide_border=true" />
   </a>
+  <a href="https://github.com/Ujstor/Basic-interpreter-in-Python">
+    <img align="center" src="https://github-readme-stats-h07is65k8-ujstor.vercel.app/api/pin/?username=ujstor&repo=Basic-interpreter-in-Python&theme=transparent&hide_border=true" />
+  </a>
   <a href="https://github.com/Ujstor/jenkins-ssh-agent-python">
     <img align="center" src="https://github-readme-stats-h07is65k8-ujstor.vercel.app/api/pin/?username=ujstor&repo=jenkins-ssh-agent-python&theme=transparent&hide_border=true" />
   </a>
