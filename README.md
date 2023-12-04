@@ -1,6 +1,6 @@
-## <picture><img src = "https://github.com/Ujstor/Ujstor/blob/master/Images/about_me.gif?raw=true" width = 55px style="margin-right: 10px;" ></picture> About me
+## <picture><img src = "./Images/about_me.gif?raw=true" width = 55px style="margin-right: 10px;" ></picture> About me
 
-<picture> <img align="right" src="https://github.com/Ujstor/Ujstor/blob/master/Images/Right_Side.gif?raw=true" width = 150px></picture>
+<picture> <img align="right" src="./Images/Right_Side.gif?raw=true" width = 150px></picture>
 
 <br>
 
@@ -10,17 +10,17 @@
 - :briefcase: I'm actively seeking exciting job opportunities to apply and further enhance my expertise in `DevOps`!
   <br> <br>
 
-## <picture> <img src = "https://github.com/Ujstor/Ujstor/blob/master/Images/tools.gif?raw=true" width = 50px style="margin-right: 12px;"> </picture> Languages and Tools
+## <picture> <img src = "./Images/tools.gif?raw=true" width = 50px style="margin-right: 12px;"> </picture> Languages and Tools
 
 <br>
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=go,py,django,flask,fastapi,postman,docker,kubernetes,prometheus,postgres,linux,bash,nginx,git,github,githubactions,jenkins,aws&perline=9" />
+    <img src="https://skillicons.dev/icons?i=go,py,django,flask,fastapi,postman,docker,kubernetes,postgres,linux,bash,git,github,githubactions,jenkins,aws&perline=8" />
   </a>
 </p>
 
-## <picture> <img src = "https://github.com/Ujstor/Ujstor/blob/master/Images/stats.gif?raw=true" width = 60px style="margin-right: 10px;"> </picture> Github Stats
+## <picture> <img src = "./Images/stats.gif?raw=true" width = 60px style="margin-right: 10px;"> </picture> Github Stats
 
 <br>
 
@@ -34,7 +34,7 @@
   <img src="https://streak-stats-92f42ajco-ujstor.vercel.app/?user=Ujstor&theme=transparent&hide_border=true&stroke=transparent" align="center" />
 </p>
 
-## <picture> <img src = "https://github.com/Ujstor/Ujstor/blob/master/Images/projects.gif?raw=true" width = 70px > </picture> My Projects
+## <picture> <img src = "./Images/projects.gif?raw=true" width = 70px > </picture> My Projects
 
 <br>
 
@@ -54,8 +54,8 @@
   <a href="https://github.com/Ujstor/web-flask-authen-database">
     <img align="center" src="https://github-readme-stats-h07is65k8-ujstor.vercel.app/api/pin/?username=ujstor&repo=web-flask-authen-database&theme=transparent&hide_border=true" />
   </a>
-  <a href="https://github.com/Ujstor/todo-list-app-dajango">
-    <img align="center" src="https://github-readme-stats-h07is65k8-ujstor.vercel.app/api/pin/?username=ujstor&repo=todo-list-app-dajango&theme=transparent&hide_border=true" />
+  <a href="https://github.com/Ujstor/todo-go">
+    <img align="center" src="https://github-readme-stats-h07is65k8-ujstor.vercel.app/api/pin/?username=ujstor&repo=todo-go&theme=transparent&hide_border=true" />
   </a>
   <a href="https://github.com/Ujstor/Basic-interpreter-in-Python">
     <img align="center" src="https://github-readme-stats-h07is65k8-ujstor.vercel.app/api/pin/?username=ujstor&repo=Basic-interpreter-in-Python&theme=transparent&hide_border=true" />
@@ -77,13 +77,13 @@
   </a> 
 </p>
 
-## <picture> <img src = "https://github.com/Ujstor/Ujstor/blob/master/Images/connect.gif?raw=true" width = 70px style="margin-right: 10px;"> </picture> Connect with me
+## <picture> <img src = "./Images/connect.gif?raw=true" width = 70px style="margin-right: 10px;"> </picture> Connect with me
 
 <p align="center">
   <a href="https://twitter.com/PZovac">
-    <img src="https://github.com/Ujstor/Ujstor/blob/master/Images/twitter.png" width="32px" alt="Twitter" />
+    <img src="./Images/twitter.png" width="32px" alt="Twitter" />
   </a>&nbsp;&nbsp;
   <a href="mailto:astipan@gmail.com">
-    <img src="https://github.com/Ujstor/Ujstor/blob/master/Images/gmail.png" width="32px" alt="Gmail" />
+    <img src="./Images/gmail.png" width="32px" alt="Gmail" />
   </a>
 </p>
