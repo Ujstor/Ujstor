@@ -82,7 +82,7 @@
   <a href="https://twitter.com/PZovac">
     <img src="./Images/twitter.png" width="32px" alt="Twitter" />
   </a>&nbsp;&nbsp;
-  <a href="mailto:ujstor@gmail.com">
+  <a href="mailto:astipan@gmail.com">
     <img src="./Images/gmail.png" width="32px" alt="Gmail" />
   </a>
 </p>
