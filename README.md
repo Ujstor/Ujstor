@@ -54,8 +54,11 @@
   <a href="https://github.com/Ujstor/web-flask-authen-database">
     <img align="center" src="https://readme.ujstor.com/pin/?username=ujstor&repo=web-flask-authen-database&theme=transparent&hide_border=true" />
   </a>
-  <a href="https://github.com/Ujstor/todo-go">
-    <img align="center" src="https://readme.ujstor.com/pin/?username=ujstor&repo=todo-go&theme=transparent&hide_border=true" />
+  <a href="https://github.com/Ujstor/learning-go">
+    <img align="center" src="https://readme.ujstor.com/pin/?username=ujstor&repo=learning-go&theme=transparent&hide_border=true" />
+  </a> 
+  <a href="https://github.com/Ujstor/todo-go-htmx">
+    <img align="center" src="https://readme.ujstor.com/pin/?username=ujstor&repo=todo-go-htmx&theme=transparent&hide_border=true" />
   </a>
   <a href="https://github.com/Ujstor/Basic-interpreter-in-Python">
     <img align="center" src="https://readme.ujstor.com/pin/?username=ujstor&repo=Basic-interpreter-in-Python&theme=transparent&hide_border=true" />
@@ -65,15 +68,19 @@
   </a>
   <a href="https://github.com/Ujstor/jenkins-ssh-agent-go">
     <img align="center" src="https://readme.ujstor.com/pin/?username=ujstor&repo=jenkins-ssh-agent-go&theme=transparent&hide_border=true" />
+  </a>
+  <a href="https://github.com/Ujstor/self-hosting-ai-models">
+    <img align="center" src="https://readme.ujstor.com/pin/?username=ujstor&repo=self-hosting-ai-models&theme=transparent&hide_border=true" />
+  </a>
+  <a href="https://github.com/Ujstor/self-hosting-apps-home-network">
+    <img align="center" src="https://readme.ujstor.com/pin/?username=ujstor&repo=self-hosting-apps-home-network&theme=transparent&hide_border=true" />
+  </a>
   <a href="https://github.com/Ujstor/kubernetes">
     <img align="center" src="https://readme.ujstor.com/pin/?username=ujstor&repo=kubernetes&theme=transparent&hide_border=true" />
   </a>
   <a href="https://github.com/Ujstor/k8s-infra">
     <img align="center" src="https://readme.ujstor.com/pin/?username=ujstor&repo=k8s-infra&theme=transparent&hide_border=true" />
   </a>
-    <a href="https://github.com/Ujstor/learning-go">
-    <img align="center" src="https://readme.ujstor.com/pin/?username=ujstor&repo=learning-go&theme=transparent&hide_border=true" />
-  </a> 
 </p>
 
 ## <picture> <img src = "./Images/connect.gif?raw=true" width = 70px style="margin-right: 10px;"> </picture> Connect with me
