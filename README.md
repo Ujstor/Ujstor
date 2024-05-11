@@ -22,7 +22,7 @@ My primary interests revolve around `DevOps tools` and `CI/CD` practices.
 <br>
 
 <p align="center">
- <img src="https://readme.ujstor.com/top-langs/?username=Ujstor&theme=transparent&langs_count=8&layout=compact&hide_border=true&hide=jupyter%20notebook,php,html,css,jinja,smarty,mako" align="center" />
+  <img src="https://readme.ujstor.com/top-langs/?username=Ujstor&theme=transparent&langs_count=8&layout=compact&hide_border=true&hide=jupyter%20notebook,php,html,css,jinja,smarty,mako,javascript,mustache" align="center" />
   <img src="https://streak-stats-92f42ajco-ujstor.vercel.app/?user=Ujstor&theme=transparent&hide_border=true&stroke=transparent" align="center" />
 </p>
 
@@ -37,8 +37,8 @@ My primary interests revolve around `DevOps tools` and `CI/CD` practices.
   <a href="https://github.com/Ujstor/coolify-hetzner-terraform">
     <img align="center" src="https://readme.ujstor.com/pin/?username=ujstor&repo=coolify-hetzner-terraform&theme=transparent&hide_border=true" />
   </a>
-  <a href="https://github.com/Ujstor/self-hosting-ai-models">
-    <img align="center" src="https://readme.ujstor.com/pin/?username=ujstor&repo=self-hosting-ai-models&theme=transparent&hide_border=true" />
+  <a href="https://github.com/Ujstor/argoCD-pipeline">
+    <img align="center" src="https://readme.ujstor.com/pin/?username=ujstor&repo=argoCD-pipeline&theme=transparent&hide_border=true" />
   </a>
   <a href="https://github.com/Ujstor/web-ssh-server">
     <img align="center" src="https://readme.ujstor.com/pin/?username=ujstor&repo=web-ssh-server&theme=transparent&hide_border=true" />
@@ -46,8 +46,8 @@ My primary interests revolve around `DevOps tools` and `CI/CD` practices.
   <a href="https://github.com/Ujstor/todo-go-htmx">
     <img align="center" src="https://readme.ujstor.com/pin/?username=ujstor&repo=todo-go-htmx&theme=transparent&hide_border=true" />
   </a>
-  <a href="https://github.com/Ujstor/probit-exchange-api">
-    <img align="center" src="https://readme.ujstor.com/pin/?username=ujstor&repo=probit-exchange-api&theme=transparent&hide_border=true" />
+  <a href="https://github.com/Ujstor/aws-lambda-dynamoDB-terraform">
+    <img align="center" src="https://readme.ujstor.com/pin/?username=ujstor&repo=aws-lambda-dynamoDB-terraform&theme=transparent&hide_border=true" />
   </a>
   <a href="https://github.com/Ujstor/k8s-infra">
     <img align="center" src="https://readme.ujstor.com/pin/?username=ujstor&repo=k8s-infra&theme=transparent&hide_border=true" />
