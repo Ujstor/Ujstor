@@ -1,13 +1,13 @@
-## <picture><img src = "./Images/about_me.gif?raw=true" width = 55px style="margin-right: 10px;" ></picture> About me
+## <picture><img src = "./Public/about_me.gif?raw=true" width = 55px style="margin-right: 10px;" ></picture> About me
 
-<picture> <img align="right" src="./Images/Right_Side.gif?raw=true" width = 150px></picture>
+<picture> <img align="right" src="./Public/Right_Side.gif?raw=true" width = 150px></picture>
 
 <br>
 
 My primary interests revolve around `DevOps tools` and `CI/CD` practices.
 <br> <br>
 
-## <picture> <img src = "./Images/tools.gif?raw=true" width = 50px style="margin-right: 12px;"> </picture> Languages and Tools
+## <picture> <img src = "./Public/tools.gif?raw=true" width = 50px style="margin-right: 12px;"> </picture> Languages and Tools
 
 <br>
 
@@ -17,7 +17,7 @@ My primary interests revolve around `DevOps tools` and `CI/CD` practices.
   </a>
 </p>
 
-## <picture> <img src = "./Images/stats.gif?raw=true" width = 60px style="margin-right: 10px;"> </picture> Github Stats
+## <picture> <img src = "./Public/stats.gif?raw=true" width = 60px style="margin-right: 10px;"> </picture> Github Stats
 
 <br>
 
@@ -26,7 +26,7 @@ My primary interests revolve around `DevOps tools` and `CI/CD` practices.
   <img src="https://streak-stats-92f42ajco-ujstor.vercel.app/?user=Ujstor&theme=transparent&hide_border=true&stroke=transparent" align="center" />
 </p>
 
-## <picture> <img src = "./Images/projects.gif?raw=true" width = 70px > </picture> My Projects
+## <picture> <img src = "./Public/projects.gif?raw=true" width = 70px > </picture> My Projects
 
 <br>
 
@@ -40,8 +40,8 @@ My primary interests revolve around `DevOps tools` and `CI/CD` practices.
   <a href="https://github.com/Ujstor/argoCD-pipeline">
     <img align="center" src="https://readme.ujstor.com/pin/?username=ujstor&repo=argoCD-pipeline&theme=transparent&hide_border=true" />
   </a>
-  <a href="https://github.com/Ujstor/web-ssh-server">
-    <img align="center" src="https://readme.ujstor.com/pin/?username=ujstor&repo=web-ssh-server&theme=transparent&hide_border=true" />
+  <a href="https://github.com/Ujstor/aws-lambda-static-website">
+    <img align="center" src="https://readme.ujstor.com/pin/?username=ujstor&repo=aws-lambda-static-website&theme=transparent&hide_border=true" />
   </a>
   <a href="https://github.com/Ujstor/aws-terraform">
     <img align="center" src="https://readme.ujstor.com/pin/?username=ujstor&repo=aws-terraform&theme=transparent&hide_border=true" />
