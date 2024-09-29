@@ -46,14 +46,8 @@ My primary interests revolve around `DevOps tools` and `CI/CD` practices.
   <a href="https://github.com/Ujstor/aws-terraform">
     <img align="center" src="https://readme.ujstor.com/pin/?username=ujstor&repo=aws-terraform&theme=transparent&hide_border=true" />
   </a>
-  <a href="https://github.com/Ujstor/aws-lambda-dynamoDB-terraform">
-    <img align="center" src="https://readme.ujstor.com/pin/?username=ujstor&repo=aws-lambda-dynamoDB-terraform&theme=transparent&hide_border=true" />
-  </a>
   <a href="https://github.com/Ujstor/k8s-infra">
     <img align="center" src="https://readme.ujstor.com/pin/?username=ujstor&repo=k8s-infra&theme=transparent&hide_border=true" />
-  </a>
-  <a href="https://github.com/Ujstor/deployment-cluster-s3-db">
-    <img align="center" src="https://readme.ujstor.com/pin/?username=ujstor&repo=deployment-cluster-s3-db&theme=transparent&hide_border=true" />
   </a>
   <a href="https://github.com/Ujstor/self-hosting-infrastructure-cluster">
     <img align="center" src="https://readme.ujstor.com/pin/?username=ujstor&repo=self-hosting-infrastructure-cluster&theme=transparent&hide_border=true" />
