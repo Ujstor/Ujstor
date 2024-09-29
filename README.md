@@ -13,7 +13,7 @@ My primary interests revolve around `DevOps tools` and `CI/CD` practices.
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=go,py,bash,flask,docker,kubernetes,postgres,git,github,githubactions,jenkins,ansible,terraform,aws,linux,neovim&perline=8" />
+    <img src="https://skillicons.dev/icons?i=go,py,bash,flask,docker,kubernetes,postgres,git,gitlab,github,githubactions,ansible,terraform,aws,linux,neovim&perline=8" />
   </a>
 </p>
 
