@@ -59,6 +59,6 @@ My primary interests revolve around `DevOps tools` and `CI/CD` practices.
     <img align="center" src="https://readme.ujstor.com/pin/?username=ujstor&repo=helm-charts-apps&theme=transparent&hide_border=true" />
   </a>
   <a href="https://github.com/Ujstor/helm-charts-github-apps">
-    <img align="center" src="https://readme.ujstor.com/pin/?username=ujstor&repo=helm-charts-apps&theme=transparent&hide_border=true" />
+    <img align="center" src="https://readme.ujstor.com/pin/?username=ujstor&repo=helm-charts-github-apps&theme=transparent&hide_border=true" />
   </a>
 </p>
