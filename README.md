@@ -55,8 +55,8 @@ My primary interests revolve around `DevOps tools` and `CI/CD` practices.
   <a href="https://github.com/Ujstor/terraform-hetzner-modules">
     <img align="center" src="https://readme.ujstor.com/pin/?username=ujstor&repo=terraform-hetzner-modules&theme=transparent&hide_border=true" />
   </a>
-  <a href="https://github.com/Ujstor/k3s-single-node-iac">
-    <img align="center" src="https://readme.ujstor.com/pin/?username=ujstor&repo=k3s-single-node-iac&theme=transparent&hide_border=true" />
+  <a href="https://github.com/Ujstor/k3s-single-node-multi-cluster-iac">
+    <img align="center" src="https://readme.ujstor.com/pin/?username=ujstor&repo=k3s-single-node-multi-cluster-iac&theme=transparent&hide_border=true" />
   </a>
   <a href="https://github.com/Ujstor/helm-charts-system">
     <img align="center" src="https://readme.ujstor.com/pin/?username=ujstor&repo=helm-charts-system&theme=transparent&hide_border=true" />
